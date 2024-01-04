@@ -1,2 +1,2 @@
 # easyrent
-Source Code Vehicle Rent with Basic CRUD
+Source Code of Vehicle Rent Simulation with Basic CRUD
